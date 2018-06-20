@@ -1,2 +1,1 @@
-# Haptics-Bilateral_Teleoperation-1DOF
- In this assignment, you will design a controller for a tele-manipulation task in eye surgery. For the design of your controller you can make use of the material provided in the lectures, including, but not limited to, passivity-based approaches and Haptic Shared Control.
+[intro.pdf](https://github.com/Ohara124c41/https-github.com-Ohara124c41-Ohara124c41.github.io/blob/master/08_12_1CM15_2018.pdf)
