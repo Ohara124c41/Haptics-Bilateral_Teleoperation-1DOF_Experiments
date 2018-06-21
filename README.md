@@ -16,3 +16,5 @@
 ![image1](https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/own_controller/haptics-experiments-16.jpg?raw=true)
 ![image1](https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/own_controller/haptics-experiments-17.jpg?raw=true)
 ![image1](https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/own_controller/haptics-experiments-18.jpg?raw=true)
+
+![pdf](https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/1-DOF_Haptics.pdf)
