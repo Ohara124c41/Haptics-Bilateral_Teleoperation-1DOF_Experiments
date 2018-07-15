@@ -1,12 +1,24 @@
-![image]<p align="center">(https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/spacearm.jpg?raw=true)</p>
+
 
 <p align="center"> 
 <img src="https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/spacearm.jpg?raw=true">
 </p>
-![image]<p align="center">(https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/hap01.png?raw=true)</p>
-![image](https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/hap02.png?raw=true?style=centerme)
-![image]<p align="center">(https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/hap03.png?raw=true)</p>
-![image](https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/hap04.png?raw=true)
+
+<p align="center"> 
+<img src="https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/hap01.png?raw=true">
+</p>
+
+<p align="center"> 
+<img src="https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/hap02.png?raw=true">
+</p>
+<p align="center"> 
+<img src="https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/hap03.png?raw=true">
+</p>
+<p align="center"> 
+<img src="https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/hap04.png?raw=true">
+</p>
+
+
 ![image](https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/hap05.png?raw=true)
 ![image](https://github.com/Ohara124c41/Haptics-Bilateral_Teleoperation-1DOF_Experiments/blob/master/images/hap06.png?raw=true)
 
